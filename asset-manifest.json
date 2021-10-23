@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/speedometer/static/css/main.a617e044.chunk.css",
+    "main.js": "/speedometer/static/js/main.29910b48.chunk.js",
+    "main.js.map": "/speedometer/static/js/main.29910b48.chunk.js.map",
+    "runtime-main.js": "/speedometer/static/js/runtime-main.5e4aa81d.js",
+    "runtime-main.js.map": "/speedometer/static/js/runtime-main.5e4aa81d.js.map",
+    "static/js/2.7a2e1fb6.chunk.js": "/speedometer/static/js/2.7a2e1fb6.chunk.js",
+    "static/js/2.7a2e1fb6.chunk.js.map": "/speedometer/static/js/2.7a2e1fb6.chunk.js.map",
+    "static/js/3.83a82bee.chunk.js": "/speedometer/static/js/3.83a82bee.chunk.js",
+    "static/js/3.83a82bee.chunk.js.map": "/speedometer/static/js/3.83a82bee.chunk.js.map",
+    "index.html": "/speedometer/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/speedometer/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7a2e1fb6.chunk.js.LICENSE.txt": "/speedometer/static/js/2.7a2e1fb6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/speedometer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e4aa81d.js",
+    "static/js/2.7a2e1fb6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.29910b48.chunk.js"
+  ]
+}
